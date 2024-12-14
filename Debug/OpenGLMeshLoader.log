@@ -1,0 +1,9 @@
+﻿  OpenGLMeshLoader19.cpp
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(232,34): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(232,48): warning C4838: conversion from 'int' to 'GLfloat' requires a narrowing conversion
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(507,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(512,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(1023,17): error C2065: 'myMotion': undeclared identifier
+C:\Users\andre\OneDrive\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(1025,16): error C2065: 'myMouse': undeclared identifier
