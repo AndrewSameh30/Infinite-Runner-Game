@@ -35,7 +35,6 @@ int playerSpeed = 50;
 
 
 
-
 GLuint tex;
 char title[] = "subway";
 
